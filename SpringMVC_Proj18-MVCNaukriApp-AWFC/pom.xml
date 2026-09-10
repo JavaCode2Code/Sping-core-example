@@ -51,6 +51,6 @@
     <finalName>SpringMVC_Proj18-MVCNaukriApp-AWFC</finalName>
   </build>
   <properties>
-  <spring.version>3.2.6.RELEASE</spring.version>
+  <spring.version>7.0.9</spring.version>
   </properties>
 </project>

@@ -11,7 +11,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
      <dependency>
@@ -28,7 +28,7 @@
 <dependency>
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>5.3.0.Final</version>
+    <version>6.2.0.Final</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
 <dependency>
@@ -117,7 +117,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
-		<spring.version>4.3.9.RELEASE</spring.version>
+		<spring.version>6.1.20</spring.version>
 	</properties>
   
    <description>SpringMVC100pCode_Proj39-Login-SFCValidation _Double_Posting</description>
