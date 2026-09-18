@@ -11,8 +11,8 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<springframework.version>5.2.22.RELEASE</springframework.version>
-		<springbatch.version>3.0.7.RELEASE</springbatch.version>
+		<springframework.version>6.2.19</springframework.version>
+		<springbatch.version>3.0.10.RELEASE</springbatch.version>
 		<mysql.version>8.0.28</mysql.version>
 		<joda-time.version>2.3</joda-time.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
