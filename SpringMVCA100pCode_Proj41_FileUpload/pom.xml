@@ -113,6 +113,6 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<spring.version>6.0.0</spring.version>
-		<spring.version>6.1.20</spring.version>
+		<spring.version>6.2.19</spring.version>
 	</properties>
 </project>
